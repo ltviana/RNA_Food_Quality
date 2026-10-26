@@ -1,0 +1,164 @@
+{
+  "classes": [
+    {
+      "name": "FreshApple",
+      "fruit": "Apple",
+      "rotten": false
+    },
+    {
+      "name": "RottenApple",
+      "fruit": "Apple",
+      "rotten": true
+    },
+    {
+      "name": "FreshBanana",
+      "fruit": "Banana",
+      "rotten": false
+    },
+    {
+      "name": "RottenBanana",
+      "fruit": "Banana",
+      "rotten": true
+    },
+    {
+      "name": "FreshBellpepper",
+      "fruit": "Bellpepper",
+      "rotten": false
+    },
+    {
+      "name": "RottenBellpepper",
+      "fruit": "Bellpepper",
+      "rotten": true
+    },
+    {
+      "name": "FreshBittergourd",
+      "fruit": "Bittergourd",
+      "rotten": false
+    },
+    {
+      "name": "RottenBittergourd",
+      "fruit": "Bittergourd",
+      "rotten": true
+    },
+    {
+      "name": "FreshCarrot",
+      "fruit": "Carrot",
+      "rotten": false
+    },
+    {
+      "name": "RottenCarrot",
+      "fruit": "Carrot",
+      "rotten": true
+    },
+    {
+      "name": "FreshCucumber",
+      "fruit": "Cucumber",
+      "rotten": false
+    },
+    {
+      "name": "RottenCucumber",
+      "fruit": "Cucumber",
+      "rotten": true
+    },
+    {
+      "name": "FreshGrape",
+      "fruit": "Grape",
+      "rotten": false
+    },
+    {
+      "name": "RottenGrape",
+      "fruit": "Grape",
+      "rotten": true
+    },
+    {
+      "name": "FreshGuava",
+      "fruit": "Guava",
+      "rotten": false
+    },
+    {
+      "name": "RottenGuava",
+      "fruit": "Guava",
+      "rotten": true
+    },
+    {
+      "name": "FreshJujube",
+      "fruit": "Jujube",
+      "rotten": false
+    },
+    {
+      "name": "RottenJujube",
+      "fruit": "Jujube",
+      "rotten": true
+    },
+    {
+      "name": "FreshMango",
+      "fruit": "Mango",
+      "rotten": false
+    },
+    {
+      "name": "RottenMango",
+      "fruit": "Mango",
+      "rotten": true
+    },
+    {
+      "name": "FreshOkra",
+      "fruit": "Okra",
+      "rotten": false
+    },
+    {
+      "name": "RottenOkra",
+      "fruit": "Okra",
+      "rotten": true
+    },
+    {
+      "name": "FreshOrange",
+      "fruit": "Orange",
+      "rotten": false
+    },
+    {
+      "name": "RottenOrange",
+      "fruit": "Orange",
+      "rotten": true
+    },
+    {
+      "name": "FreshPomegranate",
+      "fruit": "Pomegranate",
+      "rotten": false
+    },
+    {
+      "name": "RottenPomegranate",
+      "fruit": "Pomegranate",
+      "rotten": true
+    },
+    {
+      "name": "FreshPotato",
+      "fruit": "Potato",
+      "rotten": false
+    },
+    {
+      "name": "RottenPotato",
+      "fruit": "Potato",
+      "rotten": true
+    },
+    {
+      "name": "FreshStrawberry",
+      "fruit": "Strawberry",
+      "rotten": false
+    },
+    {
+      "name": "RottenStrawberry",
+      "fruit": "Strawberry",
+      "rotten": true
+    },
+    {
+      "name": "FreshTomato",
+      "fruit": "Tomato",
+      "rotten": false
+    },
+    {
+      "name": "RottenTomato",
+      "fruit": "Tomato",
+      "rotten": true
+    }
+  ]
+}
